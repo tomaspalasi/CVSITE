@@ -19,7 +19,7 @@ const Body = () => {
             <h3 className="description">
               En noviembre del año 2022, logré recibirme en la carrera de
               <strong> Desarrollo Web Frontend React JS</strong>, en <strong>Coderhouse</strong>. Actualmente, me
-              encuentro cursando la carrera de <strong>Diseño Industrial</strong>, en la
+              encuentro cursando la carrera de <strong>Diseño Industrial</strong>, en la 
               <strong>Universidad de Palermo</strong>. Me considero una persona <strong>proactiva</strong> y
               <strong>creativa</strong>, dispuesto a seguir capacitándome en diferentes áreas que
               me permiten expandir mis conocimientos, tanto a nivel profesional,
